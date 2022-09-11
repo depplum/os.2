@@ -24,4 +24,4 @@ docker run -dp 8080:80 depplum/sobakanastya
 * [Ссылка на dockerhub](https://hub.docker.com/u/depplum)
 
 * Кастомная страница Nginx
-![pic]()
+![Снимок экрана от 2022-09-11 17-54-10](https://user-images.githubusercontent.com/89969340/189534727-b16ff2d9-1b90-47c2-8672-3088ecf5ecfa.png)
